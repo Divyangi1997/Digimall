@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Kushi Flyer",
+  "image": "t-shirt1.jpeg",
+  "price": "250",
+  "size": "Round Neck Multicolor T-shirt"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Popster",
+  "image": "t-shirt2.jpeg",
+  "price": "300",
+  "size": "Round Neck Dark Blue T-shirt"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Autism",
+  "image": "t-shirt3.jpeg",
+  "price": "200",
+  "size": "Round Neck White T-shirt"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Modeve",
+  "image": "t-shirt4.jpeg",
+  "price": "500",
+  "size": "Graphic Print"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Tripr",
+  "image": "t-shirt5.jpeg",
+  "price": "350",
+  "size": "Red,Black T-Shirt"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Shapphr",
+  "image": "t-shirt6.jpeg",
+  "price": "200",
+  "size": "Round Neck Yellow T-Shirt"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Tripr",
+  "image": "t-shirt7.jpeg",
+  "price": "600",
+  "size": "Neck Dark Blue T-Shirt"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Helmont",
+  "image": "t-shirt8.jpeg",
+  "price": "500",
+  "size": "Neck Dark Green,Black T-Shirt"
+}]
